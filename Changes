@@ -1,0 +1,5 @@
+0.02
+    - Avoid suggesting writes to dead devices.
+
+0.01
+	- Original release.
